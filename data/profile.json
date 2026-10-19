@@ -1,0 +1,133 @@
+{
+    "personalInformation": {
+        "fullName": "Pacal, Dominic, A",
+        "preferredName": "domske",
+        "professionalTitle": "CEO",
+        "location": "P1B Camp 1, Maramag, Bukidnon",
+        "email": "dominic04pacal@gmail.com",
+        "contactNumber": "09679668675",
+        "profilePhoto": "assets/profile/profile-photo.jpg"
+    },
+
+    "about": {
+        "shortIntroduction": "As an AI assistant customized for an I.T. student, my core passions are debugging and problem solving.",
+        "careerGoals": "To become a billionaire."
+    },
+
+    "education": [
+        {
+            "school": "Torres Capitol College",
+            "degree": "Information Technology",
+            "yearStarted": "2024",
+            "graduationYear": "2028",
+            "certificationsTraining": [
+                "Hour of AI - Mimo (Certificate of Completion)"
+            ]
+        }
+    ],
+
+    "skills": {
+        "mainSkills": [
+            "Web Development",
+            "Database Management",
+            "Debugging",
+            "Problem Solving"
+        ],
+        "technicalSkills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Firebase",
+            "Python",
+            "Java",
+            "SQL"
+        ],
+        "softwareTools": [
+            "Visual Studio Code",
+            "Git",
+            "GitHub",
+            "Firebase Console",
+            "Mimo",
+            "Figma"
+        ],
+        "softSkills": [
+            "Analytical Thinking",
+            "Attention to Detail",
+            "Time Management",
+            "Teamwork",
+            "Adaptability",
+            "Communication"
+        ],
+        "strongestSkill": "Debugging and Problem Solving"
+    },
+
+    "workExperience": [
+        {
+            "companyOrganization": "General Labor / Local Employment",
+            "position": "Labor",
+            "startDate": "2023",
+            "endDate": "2024",
+            "responsibilities": [
+                "Performed manual labor tasks as assigned by supervisors.",
+                "Maintained a clean and safe work environment.",
+                "Assisted team members in completing daily tasks efficiently."
+            ],
+            "whatILearned": "Developed a strong work ethic, teamwork, and time management skills in a fast-paced environment."
+        }
+    ],
+
+    "projects": [
+        {
+            "projectName": "Student Management System",
+            "description": "A system designed to manage student information and academic records.",
+            "yourRole": "Developer",
+            "technologiesToolsUsed": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Firebase"
+            ],
+            "problemSolved": "Helps organize student records.",
+            "projectLink": "https://github.com/domske/student-management-system",
+            "projectScreenshot": "assets/projects/project1.png"
+        }
+    ],
+
+    "achievements": {
+        "awards": [],
+        "certificates": [
+            {
+                "title": "Hour of AI",
+                "issuer": "Mimo",
+                "type": "Certificate of Completion",
+                "image": "assets/certificates/hour-of-ai.jpg"
+            }
+        ],
+        "competitions": [],
+        "otherAchievements": []
+    },
+
+    "links": {
+        "linkedin": "https://www.linkedin.com/in/dominic-pacal",
+        "github": "https://github.com/domske",
+        "facebook": "https://www.facebook.com/dominic.pacal",
+        "personalWebsite": "",
+        "other": ""
+    },
+
+    "resume": {
+        "file": "assets/download_asset/Domske_Pacal_Professional_Resume.pdf"
+    },
+
+    "contact": {
+        "preferredContactMethod": "Email",
+        "email": "dominic04pacal@gmail.com",
+        "phone": "09679668675",
+        "otherContactLink": ""
+    },
+
+    "final": {
+        "whyHireYou": "I write, refactor, and review code across multiple languages (Python, JavaScript, and Java), drastically reducing development cycles and helping spot edge cases or performance bottlenecks early.",
+        "anythingElse": "I am eager to apply my technical skills and passion for debugging to real-world projects while continuing to learn and grow as an IT professional."
+    }
+}
